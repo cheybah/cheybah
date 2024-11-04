@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
 
-[![Cheyma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheybah)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cheybah&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheybah&hide=contribs,prs)
+![cheybah's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheybah&show_icons=true&theme=radical&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheybah&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
